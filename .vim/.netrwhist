@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/rishabh'
+let g:netrw_dirhist_7='/home/rishabh/UofT/fourthYear/csc384/a3/starter_code/starter_code'
+let g:netrw_dirhist_6='/home/rishabh/UofT/fourthYear/ece568/lab3/exp'
+let g:netrw_dirhist_5='/home/rishabh/UofT/fourthYear/csc384/a2/csp'
+let g:netrw_dirhist_4='/home/rishabh/UofT/fourthYear/csc384/a2'
+let g:netrw_dirhist_3='/home/rishabh/UofT/fourthYear/csc384/a2/csp'
+let g:netrw_dirhist_2='/home/rishabh/UofT/fourthYear/csc384/a2'
+let g:netrw_dirhist_1='/home/rishabh/UofT/fourthYear/csc384/a2/csp'
+let g:netrw_dirhist_0='/home/rishabh/UofT/fourthYear/csc384/a2'
+let g:netrw_dirhist_9='/home/rishabh/UofT/fourthYear/csc384/a2/csp'
